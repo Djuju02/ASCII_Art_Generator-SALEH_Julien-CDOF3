@@ -1,29 +1,29 @@
 # ASCII Art Generator - Julien
 
 ## Description
-Ce générateur d'art ASCII est un outil qui permet de convertir du texte en art ASCII. Il est codé en Javascript (Node.js) et utilise le module `ascii-art`.
+This ASCII art generator is a tool that converts text into ASCII art. It is coded in JavaScript (Node.js) and uses the `ascii-art` module.
 
-## Fonctionnalités
-- Conversion de texte en art ASCII.
-- Choix parmi 2 styles de police.
-- Interface console.
+## Features
+- Converts text into ASCII art.
+- Choice between 2 ASCII font styles.
+- Console interface.
 
-## Prérequis
-Avoir installé Node.js sur son système.
+## Prerequisites
+Node.js must be installed on your system.
 
 ## Installation
-Installer les dépendances nécessaires. Pour cela, il faut saisir cette commande dans le répertoire racine du projet :
+Install the necessary dependencies. To do this, enter the following command in the project's root directory:
 ```bash
 npm install
 ```
 
-## Utilisation
-Pour lancer le générateur, ouvrez un terminal et saisissez le script suivant dans le répertoire du projet :
+## Usage
+To launch the generator, open a terminal and enter the following script in the project directory:
 ```bash
 node src/index.js
 ```
 
-L'algorithme demandera alors de saisir le texte à convertir et le style de police désiré. Par défaut, celui-ci sera Doom.
+The algorithm will then ask for the text to be converted and the desired font style. By default, it will use the Doom style.
 
-## Licence
-Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
+## License
+This project is distributed under the MIT License. See the `LICENSE` file for more information.
