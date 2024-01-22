@@ -1,0 +1,22 @@
+{
+  "name": "ascii_art_generator",
+  "version": "1.0.0",
+  "description": "This is a project for the TP1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djuju02/ASCII_Art_Generator-SALEH_Julien-CDOF3.git"
+  },
+  "author": "Julien SALEH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Djuju02/ASCII_Art_Generator-SALEH_Julien-CDOF3/issues"
+  },
+  "homepage": "https://github.com/Djuju02/ASCII_Art_Generator-SALEH_Julien-CDOF3#readme",
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  }
+}
